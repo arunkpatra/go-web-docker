@@ -16,3 +16,4 @@ src/vendor/
 vendor/
 .DS_Store
 .idea
+/src/go-web-docker
